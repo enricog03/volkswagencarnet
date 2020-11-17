@@ -1,14 +1,6 @@
 # Volkswagen Carnet
 
-[![buy me a coffee](https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png)](https://www.buymeacoffee.com/robinostlund)
-
-![Release](https://img.shields.io/github/workflow/status/robinostlund/volkswagencarnet/Release)
-![PyPi](https://img.shields.io/pypi/v/volkswagencarnet)
-![Version](https://img.shields.io/github/v/release/robinostlund/volkswagencarnet)
-
-![Downloads a day](https://img.shields.io/pypi/dd/volkswagencarnet)
-![Downloads a week](https://img.shields.io/pypi/dw/volkswagencarnet)
-![Downloads a month](https://img.shields.io/pypi/dm/volkswagencarnet)
+Test conversion to Seat Connect
 
 ## Information
 
